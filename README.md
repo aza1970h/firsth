@@ -1,2 +1,2 @@
 # firsth
-team student repo
+# team student repo
